@@ -17,10 +17,10 @@
 </span>
 <span>
 <img class="rounded-full float-right" width="260" height="260" src="https://avatars.githubusercontent.com/u/29425113?v=4" alt="4baz github">
-</span>
 
+</span>
 <br><br>
-<p>learning c, c++, python, js. whatever else i feel like</p>
+<p>Learning c, c++, python, js. whatever else i feel like</p>
 <p>also trying to reverse crack and break shit frfr :)</p>
 <p>Can do atleast 5 pushups</p>
 </div>
@@ -39,7 +39,7 @@
 
     <ul>
         <li>Making cheatos and shit under the name  <a class="text-purple-400" href="https://soju.me">Soju</a></li>
-        <li>Promoting overconsuption of alcohol w/ <a class="text-purple-400" href="https://cunt.beer">cnt.beer</a></li>
+        <li>Promoting overconsumption of alcohol w/ <a class="text-purple-400" href="https://cunt.beer">cnt.beer</a></li>
         <li>I maintain a weboasis fork at <a class="text-purple-400" href="https://baz.systems">https://baz.systems/</a></li>
 
     </ul>

@@ -1,8 +1,9 @@
 
 <script>
-// @ts-nocheck
-const MusicURL = new URL('../../static/favicon.png', import.meta.url).href
-console.log(MusicURL);
+    // @ts-nocheck
+    const MusicURL = new URL('../../static/BOTA.mp3', import.meta.url).href;
+
+
     import IndexNested from "./IndexNested.svelte";
 	import { onMount } from 'svelte';
     var textarray = [
@@ -127,7 +128,8 @@ canvas{
     og site but maybe text background from oasis
 -->
 
-<h1 class=" text-center text-xl">{switchedtext}</h1>
+<h1 class=" text-center text-xl">{switchedtext}</h1><br>
+<audio autoplay controls class=" pl-[37rem]" src={MusicURL} type="audio/mpeg"></audio>
 
 
 
