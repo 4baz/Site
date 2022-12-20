@@ -3,7 +3,7 @@
 </script>
 
 <br>
-<h1 class=" text-center">Just some interesting stuff</h1>
+<h1 class="text-white text-center">Just some interesting stuff</h1>
 <br>
 <div class=" pl-96">
 

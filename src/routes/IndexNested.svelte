@@ -5,7 +5,7 @@
 
 </script>
 
-<div class="text-center">
+<div>
 
 <br>
 <div></div>
@@ -48,8 +48,8 @@
 
 
 </div>
-<div class=" space-y-36">
-    <br><br>
+<div class=" space-y-28">
+    <p></p><p></p>
 </div>
 <h1 class="text-3xl">My Links:</h1>
 <br>
@@ -60,6 +60,7 @@
 
         <a href="https://discord.gg/2fwhZVbREv"><i class="fa-brands fa-discord highlight"></i> </a>
         <a href="https://twitter.com/0x4baz"><i class="fa-brands fa-twitter highlight"></i> </a>
+        <a href="https://steamcommunity.com/id/4baz/"><i class="fa-brands fa-steam highlight"></i> </a>
 
     </span>
 
