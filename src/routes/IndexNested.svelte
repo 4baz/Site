@@ -9,38 +9,33 @@
 
 <br>
 <div></div>
-<span class=" text-5xl">
-    Baz/Bailey
+<span class=" text-5xl text-center">
+    <h1>Baz</h1>
 </span>
-<span>
-     yo,
-</span>
-<span>
-<img class="rounded-full float-right" width="260" height="260" src="https://avatars.githubusercontent.com/u/29425113?v=4" alt="4baz github">
-
-</span>
-<br><br>
-<p>Learning c, c++, python, js. whatever else i feel like</p>
-<p>also trying to reverse crack and break shit frfr :)</p>
-<p>Can do atleast 5 pushups</p>
+<!--<p>Learning c, c++, python, js. whatever else i feel like</p>
+<p>also trying to reverse crack and break shit frfr :)</p>-->
+<p class=" text-center">yo, Can do atleast 5 pushups</p><br>
 </div>
 
 
-<div class=" space-y-36">
+<div class="space-y-20">
     <br><br>
 </div>
 
 <!-- links -->
 <div>
+    <span>
+        <img class="rounded-full float-right" width="260" height="260" src="https://avatars.githubusercontent.com/u/29425113?v=4" alt="4baz github">
+        <h1 class="text-3xl">shmile</h1>
+    </span>
 
-<h1 class="text-3xl">Shit that im working on:</h1>
 <br>
 <div class="px-6">
 
     <ul>
-        <li>Making cheatos and shit under the name  <a class="text-purple-400" href="https://soju.me">Soju</a></li>
-        <li>Promoting overconsumption of alcohol w/ <a class="text-purple-400" href="https://cunt.beer">cnt.beer</a></li>
-        <li>I maintain a weboasis fork at <a class="text-purple-400" href="https://baz.systems">https://baz.systems/</a></li>
+        <li>I dont mind  <a class="text-purple-400" href="https://soju.me">Soju</a></li>
+        <!--<li>Promoting overconsumption of alcohol w/ <a class="text-purple-400" href="https://cunt.beer">cnt.beer</a></li>-->
+        <li>I maintain a modified weboasis fork at <a class="text-purple-400" href="https://oasis.soju.me">oasis.soju.me</a></li>
 
     </ul>
 
