@@ -5,7 +5,7 @@
 
 
 
-My personal website innit, Its hosted at bailey.cc ( as of 1/24/23 ) but i dont actually use this ig
+My personal website innit, Made this to test using svelte
 
 
 
